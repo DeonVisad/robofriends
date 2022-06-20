@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.cb205ce1.css",
+    "main.js": "/robofriends/static/js/main.514a790f.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Alien Robot.woff": "/robofriends/static/media/Alien Robot.ea77f5ef0a1402b9b9e6.woff",
+    "index.html": "/robofriends/index.html",
+    "main.cb205ce1.css.map": "/robofriends/static/css/main.cb205ce1.css.map",
+    "main.514a790f.js.map": "/robofriends/static/js/main.514a790f.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb205ce1.css",
+    "static/js/main.514a790f.js"
+  ]
+}
